@@ -8,3 +8,6 @@ There is an inconsistency in how the settings are adjusted: Most of them are sim
 The settings that have more than two options, such as sound (high, low, off), work differently:
     upon reaching one, the different options cycle through one at a time, where one can be selected by pressing Start/Add 30 while it is being shown.
 This is unintuitive and not explained by the text on the screen, which includes a dedicated piece of lit up text saying "Press Start".
+
+To improve this, I would add additional buttons to cycle through the settings options because there is enough space on the front panel.
+I would also add a setting that can limit the number of beeps to 3.
