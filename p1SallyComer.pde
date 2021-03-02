@@ -72,6 +72,7 @@ void draw() {
     break;
     case 4:
     modeString = "ENDED";
+    break;
     default:
     modeString = "unknown mode";
   }
